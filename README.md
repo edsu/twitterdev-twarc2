@@ -15,9 +15,9 @@ https://twitter.com/suhemparack/status/1384922554041782275
   * authenticity: fullest representation of a tweet (from twitter)
   * reliability: respond to network failure, long paging requests, streams (months), handle quotas
   * traceable: log everything that's going on
-  * get out of the way of analysis: write to files as JSON
-  * pipelines: line-oriented json for pipelines 
-  * migration path from v1 to v2 
+  * unopinionated: get out of the way of analysis, write to files as JSON
+  * composable: line-oriented json for pipelines, a library for writing Python programs with
+  * upgradeable: migration path from v1 to v2, with v1 still there
 * documentation: https://twarc-project.readthedocs.io
 
 2. Academic Research product track (Suhem) Why use a library (Suhem)
