@@ -1,0 +1,148 @@
+{
+  "author_id": "89887215",
+  "context_annotations": [
+    {
+      "domain": {
+        "description": "Television shows from around the world",
+        "id": "3",
+        "name": "TV Shows"
+      },
+      "entity": {
+        "description": "Correspondents report on important news events of the day. Their daily reports are also available online and on radio.",
+        "id": "10004508226",
+        "name": "PBS NewsHour"
+      }
+    },
+    {
+      "domain": {
+        "description": "Named people in the world like Nelson Mandela",
+        "id": "10",
+        "name": "Person"
+      },
+      "entity": {
+        "description": "American journalist; White House correspondent for PBS NewsHour",
+        "id": "1070711261787090944",
+        "name": "Yamiche Alcindor"
+      }
+    },
+    {
+      "domain": {
+        "description": "Named people in the world like Nelson Mandela",
+        "id": "10",
+        "name": "Person"
+      },
+      "entity": {
+        "id": "1266467007987253248",
+        "name": "George Floyd"
+      }
+    },
+    {
+      "domain": {
+        "description": "A journalist like 'Anderson Cooper'",
+        "id": "94",
+        "name": "Journalist"
+      },
+      "entity": {
+        "description": "American journalist; White House correspondent for PBS NewsHour",
+        "id": "1070711261787090944",
+        "name": "Yamiche Alcindor"
+      }
+    },
+    {
+      "domain": {
+        "description": "Top level interests and hobbies groupings, like Food or Travel",
+        "id": "65",
+        "name": "Interests and Hobbies Vertical"
+      },
+      "entity": {
+        "description": "Technology and computing",
+        "id": "848920371311001600",
+        "name": "Technology"
+      }
+    },
+    {
+      "domain": {
+        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+        "id": "66",
+        "name": "Interests and Hobbies Category"
+      },
+      "entity": {
+        "description": "Cell phones",
+        "id": "848920700073123840",
+        "name": "Cell Phones"
+      }
+    },
+    {
+      "domain": {
+        "description": "Television shows from around the world",
+        "id": "3",
+        "name": "TV Shows"
+      },
+      "entity": {
+        "id": "886663120344686592",
+        "name": "PBS Newshour"
+      }
+    }
+  ],
+  "conversation_id": "1385008025140871168",
+  "created_at": "2021-04-21T23:10:20.000Z",
+  "entities": {
+    "annotations": [
+      {
+        "end": 33,
+        "normalized_text": "George Floyd",
+        "probability": 0.9893,
+        "start": 22,
+        "type": "Person"
+      },
+      {
+        "end": 60,
+        "normalized_text": "Philonise Floyd",
+        "probability": 0.9788,
+        "start": 46,
+        "type": "Person"
+      },
+      {
+        "end": 102,
+        "normalized_text": "Darnella Frazier",
+        "probability": 0.9855,
+        "start": 87,
+        "type": "Person"
+      }
+    ],
+    "mentions": [
+      {
+        "end": 20,
+        "start": 11,
+        "username": "NewsHour"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/NewsHour/statu\u2026",
+        "end": 264,
+        "expanded_url": "https://twitter.com/NewsHour/status/1384997008788819972",
+        "start": 241,
+        "url": "https://t.co/jnbiUlQUt1"
+      }
+    ]
+  },
+  "id": "1385008025140871168",
+  "lang": "en",
+  "possibly_sensitive": false,
+  "public_metrics": {
+    "like_count": 1670,
+    "quote_count": 7,
+    "reply_count": 50,
+    "retweet_count": 222
+  },
+  "referenced_tweets": [
+    {
+      "id": "1384997008788819972",
+      "type": "quoted"
+    }
+  ],
+  "reply_settings": "everyone",
+  "source": "Twitter Web App",
+  "text": "Tonight on @NewsHour, George Floyd's brother, Philonise Floyd, told me he thinks about Darnella Frazier who filmed the murder of his brother often. \n\n\"I know that my brother would just be another dead person if it weren't for her,\" he said. https://t.co/jnbiUlQUt1"
+}
