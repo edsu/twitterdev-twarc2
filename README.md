@@ -12,11 +12,11 @@ https://twitter.com/suhemparack/status/1384922554041782275
 * origins in 2014 and Mellon: docnow.io
 * community (website, slack): collaborators on v2 Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, Daniel Verdeer, Laura Wrubel
 * principles of twarc2: link to blog post
-  * authenticity: fullest representation of a tweet (from twitter)
-  * reliability: respond to network failure, long paging requests, streams (months), handle quotas
+  * authentic: fullest representation of a tweet (from twitter)
+  * reliable: respond to network failure, long paging requests, streams (months), handle quotas
   * traceable: log everything that's going on
   * unopinionated: get out of the way of analysis, write to files as JSON
-  * composable: line-oriented json for pipelines, a library for writing Python programs with
+  * composeable: line-oriented json for pipelines, a library for writing Python programs with
   * upgradeable: migration path from v1 to v2, with v1 still there
 * documentation: https://twarc-project.readthedocs.io
 
