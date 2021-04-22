@@ -10,7 +10,7 @@ https://twitter.com/suhemparack/status/1384922554041782275
 1. Intro (Suhem & Ed) Document The Now project and motivation for Twarc (Ed)
 
 * origins in 2014 and Mellon: docnow.io
-* community (website, slack): collaborators Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, and Daniel Verdeer
+* community (website, slack): collaborators on v2 Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, Daniel Verdeer, Laura Wrubel
 * principles of twarc2: link to blog post; 
 * documentation: https://twarc-project.readthedocs.io
 
@@ -18,7 +18,8 @@ https://twitter.com/suhemparack/status/1384922554041782275
 
 3. Installing twarc2 (Ed)
 
-* dev portal: bearer token 
+* install Python3
+* dev portal: bearer token, read only
 * twarc: v1 api
 * twarc2 help
 * twarc2 configure
