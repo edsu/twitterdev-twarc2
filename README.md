@@ -9,8 +9,12 @@ https://twitter.com/suhemparack/status/1384922554041782275
 
 1. Intro (Suhem & Ed) Document The Now project and motivation for Twarc (Ed)
 
-* origins in 2014 and Mellon: docnow.io
-* community (website, slack): collaborators on v2 Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, Daniel Verdeer, Laura Wrubel
+* origins in 2014
+  * documenting the protests in ferguson with an eye towards future history
+  * 13m tweets
+  * Mellon support
+  * not just collecting data, but consent and participation matter for long term preservation (docnow app)
+  * community (website, slack): collaborators on v2 Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, Daniel Verdeer, Laura Wrubel
 * principles of twarc2: link to blog post
   * authentic: fullest representation of a tweet (from twitter)
   * reliable: respond to network failure, long paging requests, streams (months), handle quotas
