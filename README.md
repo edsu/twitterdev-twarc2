@@ -11,7 +11,13 @@ https://twitter.com/suhemparack/status/1384922554041782275
 
 * origins in 2014 and Mellon: docnow.io
 * community (website, slack): collaborators on v2 Betsy Alpert, Igor Brigadir, Sam Hames, Jeff Sauer, Daniel Verdeer, Laura Wrubel
-* principles of twarc2: link to blog post; 
+* principles of twarc2: link to blog post
+  * authenticity: fullest representation of a tweet (from twitter)
+  * reliability: respond to network failure, long paging requests, streams (months), handle quotas
+  * traceable: log everything that's going on
+  * get out of the way of analysis: write to files as JSON
+  * pipelines: line-oriented json for pipelines 
+  * migration path from v1 to v2 
 * documentation: https://twarc-project.readthedocs.io
 
 2. Academic Research product track (Suhem) Why use a library (Suhem)
